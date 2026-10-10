@@ -1,36 +1,22 @@
-# Ypranes AetherTech
 
-#### Description
-A major Mindustry mod — all-new mechanics, tech, and experience.
+# Ypranes: Aether Tech
 
-#### Software Architecture
-Software architecture description
+English | [中文](README.md)
 
-#### Installation
+A content mod for Mindustry, taking you to a third planet beyond Serpulo and Erekir — **Ypranes**.
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+---
 
-#### Instructions
+## Key Features
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- **Brand New Energy System**: Original Aether-series products with unique transportation and synthesis methods.
+- **New Power Source — Aether Electromagnetics**: A new energy type beyond electricity, used to charge turrets and special structures.
+- **New Turret Mechanics**: Introducing charging, salvo fire, precision guidance, and other new mechanics.
+- **Special Radioactive Resources**: Radioactive resources requiring special extraction. Using the wrong machinery will cause radiation leaks and pollution.
+- **Brand New Dynamic Events**: Tired of just building and defending? Special events add a new layer of fun! Risk and reward coexist — they can bring destruction, or a bountiful harvest! Perhaps... you can control these events and turn them into even greater profits?
 
-#### Contribution
+---
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+## Status
 
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+Early development. Contributions for code, art, music, and text are welcome.
