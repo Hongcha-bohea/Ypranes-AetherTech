@@ -19,4 +19,8 @@ A content mod for Mindustry, taking you to a third planet beyond Serpulo and Ere
 
 ## Status
 
-Early development. Contributions for code, art, music, and text are welcome.
+The mod framework is up and running, and the welcome dialog displays correctly.
+
+Aether resources, turrets, and buildings are still in the design phase.
+
+Contributions for design, art, and music are welcome. This project is purely non-profit, powered by passion.
