@@ -57,5 +57,5 @@ ExoGenesis-Unofficial 保留了 ExoGenesis 原作者于 2022 年 2 月 27 日之
 **联系方式：**
 
 - QQ：1707910578
-- 邮箱：hongchabohea@outlook.com（优先）
-- 备用邮箱：1707910578@qq.com
+- 邮箱：hongchabohea@outlook.com
+- 备用邮箱：hongchabohea@proton.me
