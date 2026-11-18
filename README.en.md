@@ -57,5 +57,5 @@ Contributions for design, art, and music are welcome. This project is purely non
 **Contact:**
 
 - QQ: 1707910578
-- Email: hongchabohea@outlook.com (preferred)
-- Backup Email: 1707910578@qq.com
+- Email: hongchabohea@outlook.com
+- Backup Email: hongchabohea@proton.me
